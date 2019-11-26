@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/cheesydev-labs/jenkinsx-app-quickstart.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cheesydev-labs
+  repo: jenkinsx-app-quickstart2
+  url: https://github.com/cheesydev-labs/jenkinsx-app-quickstart2.git
+  version: ""
+  versionURL: ""
