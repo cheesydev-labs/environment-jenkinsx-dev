@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jenkinsx/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: bot@cheesy.dev
+  token: local:jenkinsx/pipelineUser:token
+  username: cheesybot
+prow:
+  hmacToken: local:jenkinsx/prow:hmacToken
